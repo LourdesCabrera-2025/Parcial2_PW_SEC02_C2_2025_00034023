@@ -1,0 +1,53 @@
+{
+    "cuentas": [
+        {
+            "id": 1,
+            "name": "Ana María Rodríguez",
+            "gender": "F",
+            "balance": 2500.75,
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Carlos José Mendoza",
+            "gender": "M",
+            "balance": 15000.00,
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "María Elena López",
+            "gender": "F",
+            "balance": 500.25,
+            "isActive": false
+        },
+        {
+            "id": 4,
+            "name": "Juan Pablo Morales",
+            "gender": "M",
+            "balance": 7800.50,
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Laura Isabel Castro",
+            "gender": "F",
+            "balance": 1200.00,
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Roberto Antonio Pérez",
+            "gender": "M",
+            "balance": 25000.00,
+            "isActive": false
+        },
+        {
+            "id": 7,
+            "name": "Patricia Carmen García",
+            "gender": "F",
+            "balance": 3750.25,
+            "isActive": true
+        }
+    ]
+}
