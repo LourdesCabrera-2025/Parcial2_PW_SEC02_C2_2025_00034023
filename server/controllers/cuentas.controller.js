@@ -1,6 +1,4 @@
-const { json } = require('express');
-const cuentas = require('../data/cuentas.json');
-const { act } = require('react');
+const cuentas = require('../data/cuentas.json')
 
 exports.listarCuentas = (req, res) => {
     res.json({
