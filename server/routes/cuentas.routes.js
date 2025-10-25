@@ -9,4 +9,3 @@ router.get("/buscar/query", cuentasController.buscarCuentas);
 router.get("/balance/total", cuentasController.obtenerBalanceTotal);
 
 module.exports = router;
-r
